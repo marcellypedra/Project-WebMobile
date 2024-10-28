@@ -1,5 +1,5 @@
 # Project-WebMobile
-Authors: Brenda Lopes and Marcelly Pedra
+Authors: Brenda Lopes & Marcelly Pedra
 
 Focus:
 Scenario
